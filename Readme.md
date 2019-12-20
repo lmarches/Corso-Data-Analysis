@@ -39,3 +39,9 @@ In questa pagina vengono riassunti i link verso le risorse utilizzate nel corso 
 ## Passo 2.4: Aggregazione dati
 
 - [Aggregazione dei dati twitter ](https://docs.google.com/spreadsheets/d/1Sv2Ww8Ryh9hmmqfXsOV2rfCLiToEuslDr9PbY26YumY/edit#gid=296301192) e merge con dati hootsuite
+
+
+## Passo 3.1: Esplorazione dei dati 
+
+
+
