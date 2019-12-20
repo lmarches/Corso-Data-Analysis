@@ -25,6 +25,7 @@ In questa pagina vengono riassunti i link verso le risorse utilizzate nel corso 
 ## Passo 2.2: Formattazione dei dati 
 
 - Settaggio di "Locale"
-- Formattazione delle date Twitter
+- Formattazione delle [date Twitter]()
 
+- [Aumento dei dati](https://docs.google.com/spreadsheets/d/1tkIeZOXU5LfE167VEH2OcZCn28jZsfxkGLpV9orcBSs/edit#gid=1603544627) (mese, numero settimana, etc.)
 
