@@ -35,3 +35,7 @@ In questa pagina vengono riassunti i link verso le risorse utilizzate nel corso 
 
 - [Classificazione dati temporali](https://docs.google.com/spreadsheets/d/1RocODZaQeVkFLWv_G794BwBFAZDZDxDSCk5ZHMjULfM/edit#gid=1603544627)
 
+
+## Passo 2.4: Aggregazione dati
+
+- [Aggregazione dei dati twitter ](https://docs.google.com/spreadsheets/d/1Sv2Ww8Ryh9hmmqfXsOV2rfCLiToEuslDr9PbY26YumY/edit#gid=296301192) e merge con dati hootsuite
