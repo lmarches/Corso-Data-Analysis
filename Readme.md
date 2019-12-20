@@ -27,5 +27,11 @@ In questa pagina vengono riassunti i link verso le risorse utilizzate nel corso 
 - Settaggio di "Locale"
 - Formattazione delle [date Twitter]()
 
-- [Aumento dei dati](https://docs.google.com/spreadsheets/d/1tkIeZOXU5LfE167VEH2OcZCn28jZsfxkGLpV9orcBSs/edit#gid=1603544627) (mese, numero settimana, etc.)
+- [Aumento dei dati temporali](https://docs.google.com/spreadsheets/d/1tkIeZOXU5LfE167VEH2OcZCn28jZsfxkGLpV9orcBSs/edit#gid=1603544627) (mese, numero settimana, etc.)
+
+- [Conteggio degli hashtag "target"](https://docs.google.com/spreadsheets/d/1kNNMKNvc7-t5jrgijBxBT700zoIixjUv6YlvGf2kRQA/edit#gid=1603544627)
+
+## Passo 2.3: Generazione dati categorici
+
+- [Classificazione dati temporali](https://docs.google.com/spreadsheets/d/1RocODZaQeVkFLWv_G794BwBFAZDZDxDSCk5ZHMjULfM/edit#gid=1603544627)
 
