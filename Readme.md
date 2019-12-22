@@ -29,7 +29,7 @@ In questa pagina vengono riassunti i link verso le risorse utilizzate nel corso 
 
 - Settaggio [di "Locale"](https://docs.google.com/spreadsheets/d/1QaBCXKWIXbLIR60OP2cUZHFeo-b2ihwIyD4-PZYBmpU/edit#gid=0)
 - Formattazione delle [date Twitter](https://docs.google.com/spreadsheets/d/1aDziM3BsK6wfD-JMMNeDKlmsLNgoOd2u9IwuJxfTaTo/edit#gid=1603544627)
-
+- propagazione [dati su colonne](https://docs.google.com/spreadsheets/d/1_V08SKXW1MUWYZyJytkvOLlgvIrbnmWKiTu6DfuzG_A/edit)
 
 # 3.4 Come aumentare i dati 
 
@@ -38,22 +38,21 @@ In questa pagina vengono riassunti i link verso le risorse utilizzate nel corso 
 
 - [Aumento dei dati temporali](https://docs.google.com/spreadsheets/d/1tkIeZOXU5LfE167VEH2OcZCn28jZsfxkGLpV9orcBSs/edit#gid=1603544627) (mese, numero settimana, etc.)
 
-## Passo 3.4.1: Estrazione dati testuali 
+## Passo 3.4.2: Estrazione dati testuali 
 
 - [Conteggio degli hashtag "target"](https://docs.google.com/spreadsheets/d/1kNNMKNvc7-t5jrgijBxBT700zoIixjUv6YlvGf2kRQA/edit#gid=1603544627)
 
-
-# 3.5 Come generare i dati categorici 
-
-## Passo 3.5.1 : Generazione dati categorici
+## Passo 3.4.3 : Generazione dati categorici
 
 - [Classificazione dati temporali](https://docs.google.com/spreadsheets/d/1RocODZaQeVkFLWv_G794BwBFAZDZDxDSCk5ZHMjULfM/edit#gid=1603544627)
 
-# 3.6 Come collegare dati complementari
+## Passo 3.4.4 :  Aggregazione dati
 
-## Passo 2.4: Aggregazione dati
+- [Aggregazione dei dati con Tabelle di Pivot ](https://docs.google.com/spreadsheets/d/1Sv2Ww8Ryh9hmmqfXsOV2rfCLiToEuslDr9PbY26YumY/edit#gid=296301192)  
 
-- [Aggregazione dei dati twitter ](https://docs.google.com/spreadsheets/d/1Sv2Ww8Ryh9hmmqfXsOV2rfCLiToEuslDr9PbY26YumY/edit#gid=296301192) e merge con dati hootsuite
+## Passo 3.4.5 : Connessione dati
+- [Merge di dati con chiave primaria ](https://docs.google.com/spreadsheets/d/1Sv2Ww8Ryh9hmmqfXsOV2rfCLiToEuslDr9PbY26YumY/edit#gid=296301192)
+
 
 # 4.1 Come validare le ipotesi 
 
