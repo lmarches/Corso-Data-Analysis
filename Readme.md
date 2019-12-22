@@ -25,10 +25,16 @@ In questa pagina vengono riassunti i link verso le risorse utilizzate nel corso 
 - [Dati Twitter filtrati](https://docs.google.com/spreadsheets/d/1Nn77CMtM6Q5pzf35IQ8hkgEOc-S2gMboD5x8kLzdpiM/edit#gid=1603544627) rimuovendo le colonne non necessarie
 
 
-## Passo 3.3.4: Formattazione dei dati 
+## Passo 3.3.4: Settaggi Locali 
 
 - Settaggio [di "Locale"](https://docs.google.com/spreadsheets/d/1QaBCXKWIXbLIR60OP2cUZHFeo-b2ihwIyD4-PZYBmpU/edit#gid=0)
+
+## Passo 3.3.5: Formattazione date 
+
 - Formattazione delle [date Twitter](https://docs.google.com/spreadsheets/d/1aDziM3BsK6wfD-JMMNeDKlmsLNgoOd2u9IwuJxfTaTo/edit#gid=1603544627)
+
+## Passo 3.3.6: Propagazione date su colonne
+
 - propagazione [dati su colonne](https://docs.google.com/spreadsheets/d/1_V08SKXW1MUWYZyJytkvOLlgvIrbnmWKiTu6DfuzG_A/edit)
 
 # 3.4 Come aumentare i dati 
