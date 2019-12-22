@@ -3,7 +3,6 @@
 In questa pagina vengono riassunti i link verso le risorse utilizzate nel corso "Introduzione al Data Analysis". 
 
 
- 
 # 3.3 Come preparare i dati 
 
 ## Passo 3.3.1: Esplorazione dei dati 
@@ -35,7 +34,11 @@ In questa pagina vengono riassunti i link verso le risorse utilizzate nel corso 
 # 3.4 Come aumentare i dati 
 
 
+## Passo 3.4.1: Estrazione dati temporali 
+
 - [Aumento dei dati temporali](https://docs.google.com/spreadsheets/d/1tkIeZOXU5LfE167VEH2OcZCn28jZsfxkGLpV9orcBSs/edit#gid=1603544627) (mese, numero settimana, etc.)
+
+## Passo 3.4.1: Estrazione dati testuali 
 
 - [Conteggio degli hashtag "target"](https://docs.google.com/spreadsheets/d/1kNNMKNvc7-t5jrgijBxBT700zoIixjUv6YlvGf2kRQA/edit#gid=1603544627)
 
@@ -51,7 +54,6 @@ In questa pagina vengono riassunti i link verso le risorse utilizzate nel corso 
 ## Passo 2.4: Aggregazione dati
 
 - [Aggregazione dei dati twitter ](https://docs.google.com/spreadsheets/d/1Sv2Ww8Ryh9hmmqfXsOV2rfCLiToEuslDr9PbY26YumY/edit#gid=296301192) e merge con dati hootsuite
-
 
 # 4.1 Come validare le ipotesi 
 
