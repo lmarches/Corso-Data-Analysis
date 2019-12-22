@@ -60,6 +60,10 @@ In questa pagina vengono riassunti i link verso le risorse utilizzate nel corso 
 - [Merge di dati con chiave primaria ](https://docs.google.com/spreadsheets/d/1Sv2Ww8Ryh9hmmqfXsOV2rfCLiToEuslDr9PbY26YumY/edit#gid=296301192)
 
 
+
+# 4.0 Come aumentare i dati 
+
+
 # 4.1 Come validare le ipotesi 
 
 # 4.2 Come analizzare serie temporali 
