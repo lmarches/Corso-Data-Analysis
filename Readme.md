@@ -24,8 +24,8 @@ In questa pagina vengono riassunti i link verso le risorse utilizzate nel corso 
 
 ## Passo 2.2: Formattazione dei dati 
 
-- Settaggio di "Locale"
-- Formattazione delle [date Twitter]()
+- Settaggio [di "Locale"](https://docs.google.com/spreadsheets/d/1QaBCXKWIXbLIR60OP2cUZHFeo-b2ihwIyD4-PZYBmpU/edit#gid=0)
+- Formattazione delle [date Twitter](https://docs.google.com/spreadsheets/d/1aDziM3BsK6wfD-JMMNeDKlmsLNgoOd2u9IwuJxfTaTo/edit#gid=1603544627)
 
 - [Aumento dei dati temporali](https://docs.google.com/spreadsheets/d/1tkIeZOXU5LfE167VEH2OcZCn28jZsfxkGLpV9orcBSs/edit#gid=1603544627) (mese, numero settimana, etc.)
 
@@ -39,9 +39,3 @@ In questa pagina vengono riassunti i link verso le risorse utilizzate nel corso 
 ## Passo 2.4: Aggregazione dati
 
 - [Aggregazione dei dati twitter ](https://docs.google.com/spreadsheets/d/1Sv2Ww8Ryh9hmmqfXsOV2rfCLiToEuslDr9PbY26YumY/edit#gid=296301192) e merge con dati hootsuite
-
-
-## Passo 3.1: Esplorazione dei dati 
-
-
-
