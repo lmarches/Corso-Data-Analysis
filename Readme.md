@@ -59,15 +59,15 @@ In questa pagina vengono riassunti i link verso le risorse utilizzate nel corso 
 ## Passo 3.4.5 : Connessione dati
 - [Merge di dati con chiave primaria ](https://docs.google.com/spreadsheets/d/1Sv2Ww8Ryh9hmmqfXsOV2rfCLiToEuslDr9PbY26YumY/edit#gid=296301192)
 
+# 4.1 Come analizzare i dati 
+
+## Passo 4.1.1: Esplorazione dati
+## Passo 4.1.2: Analisi temporale
+## Passo 4.1.3: Analisi volumetrica
 
 
-# 4.0 Come aumentare i dati 
+# 4.2 Come generare insights
 
-
-# 4.1 Come validare le ipotesi 
-
-# 4.2 Come analizzare serie temporali 
-
-# 4.3 Come analizzare e predire trends
-
-# 4.4 Come presentare i risultati
+## Passo 4.2.1: Trends e predizione
+## Passo 4.2.2: Analisi di correlazione
+## Passo 4.2.3: Come presentare i risultati?
