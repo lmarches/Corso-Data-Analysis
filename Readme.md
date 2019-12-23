@@ -63,15 +63,22 @@ In questa pagina vengono riassunti i link verso le risorse utilizzate nel corso 
 
 ## Passo 4.1.1: Esplorazione dati
 
+- [Esplorazione di dati](https://docs.google.com/spreadsheets/d/1beiazmZCnaqPr1eBNxQV0ED3uFCvQYNDPtI7wgESPEM/edit#gid=55638409)
+
 ## Passo 4.1.2: Analisi temporale
+
+- [Analisi di serie temporali](https://docs.google.com/spreadsheets/d/1beiazmZCnaqPr1eBNxQV0ED3uFCvQYNDPtI7wgESPEM/edit#gid=482798474)
 
 ## Passo 4.1.3: Analisi volumetrica
 
+- [Analisi volumetrica](https://docs.google.com/spreadsheets/d/1beiazmZCnaqPr1eBNxQV0ED3uFCvQYNDPtI7wgESPEM/edit#gid=357717722)
 
 # 4.2 Come generare insights
 
 ## Passo 4.2.1: Trends e predizione
+- [Trends e predizione](https://docs.google.com/spreadsheets/d/1beiazmZCnaqPr1eBNxQV0ED3uFCvQYNDPtI7wgESPEM/edit#gid=1787099352)
 
 ## Passo 4.2.2: Analisi di correlazione
 
-# 4.3: Come presentare i risultati?
+- [Correlare dati eterogenei](https://docs.google.com/spreadsheets/d/1beiazmZCnaqPr1eBNxQV0ED3uFCvQYNDPtI7wgESPEM/edit#gid=1914861396)
+
