@@ -62,12 +62,16 @@ In questa pagina vengono riassunti i link verso le risorse utilizzate nel corso 
 # 4.1 Come analizzare i dati 
 
 ## Passo 4.1.1: Esplorazione dati
+
 ## Passo 4.1.2: Analisi temporale
+
 ## Passo 4.1.3: Analisi volumetrica
 
 
 # 4.2 Come generare insights
 
 ## Passo 4.2.1: Trends e predizione
+
 ## Passo 4.2.2: Analisi di correlazione
-## Passo 4.2.3: Come presentare i risultati?
+
+# 4.3: Come presentare i risultati?
